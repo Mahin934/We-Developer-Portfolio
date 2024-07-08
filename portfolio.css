@@ -201,3 +201,37 @@ main{
     margin-bottom: 113px;
 }
 
+.sep{
+    display: flex;
+    padding: 130px 230px;
+    gap: 117px;
+    margin-left: 150px;
+}
+
+.footer-c{
+    width: 50%;
+}
+
+.bt{
+    height: 32px;
+    background-color: white;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+}
+
+.marg{
+    margin-top: 24px;
+}
+
+.btt{
+    background-color: white;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+}
+
+.last2{
+    font-size: 16px;
+    color: #757575;
+}
